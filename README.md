@@ -37,7 +37,7 @@ A passionate Software Developer with a solid foundation in Computer Science. My 
 
 * **Expertise:** Desktop Applications (WinForms), SQL Server Database Design, and Logic Automation.
 * **Key Projects:** Driver License Management System, Code Generator Tool.
-* **Current Goal:** Transitioning into Full-stack Development (C#/.NET Backend).
+* **Current Goal:** Transitioning into Web Full-stack Development (C#/.NET Backend).
 
 ---
 📫 **Connect with me:**
